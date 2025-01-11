@@ -125,7 +125,7 @@ body {
 .heading a:link {
     text-decoration: none;
 }
-.heading a:active {
+.heading a:active, .heading a:hover {
     color: #F4D04E;
 }
 .content {
