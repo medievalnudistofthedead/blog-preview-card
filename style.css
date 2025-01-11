@@ -107,7 +107,6 @@ body {
     border-radius: 3px;
     margin-top: 1.2rem;
     height: 1.6rem;
-    letter-spacing: 0.001rem;
     font-size: 0.8rem;
 }
 .type p {
@@ -121,6 +120,7 @@ body {
 .heading {
     font-size: 1.3em;
     font-weight: 800;
+    margin-top: -0.3rem;
 }
 .heading a:link {
     text-decoration: none;
@@ -131,6 +131,7 @@ body {
 .content {
     color: #6B6B6B;
     padding-bottom: 0.6rem;
+    font-size: 0.9rem;
 }
 .author {
     display: flex;
